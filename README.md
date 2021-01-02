@@ -41,12 +41,13 @@ bozidar.mladenovic.18@singimail.rs
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ### Some images of my projects:
 
-[<img align="left" alt="Visual Studio Code" width="300px" height="500px" src="projectsImages/newsapp-gif.gif" />][newsapp]
-[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/bishop-gif.gif" />][bishop]
-[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/cpbay-gif.gif" />][cpbay]
+[<img align="left" alt="Visual Studio Code" width="300px" height="500px" margin-top="10px" src="projectsImages/newsapp-gif.gif" />][newsapp]
+[<img align="left" alt="Visual Studio Code" width="500px" margin-top="10px" src="projectsImages/bishop-gif.gif" />][bishop]
+[<img align="left" alt="Visual Studio Code" width="500px" margin-top="10px" src="projectsImages/cpbay-gif.gif" />][cpbay]
 
 <br />
 <br />
