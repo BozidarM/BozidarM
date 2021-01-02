@@ -44,10 +44,9 @@ bozidar.mladenovic.18@singimail.rs
 
 ### Some images of my projects:
 
-[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/cpbay-gif.gif" />][cpbay]
+[<img align="left" alt="Visual Studio Code" width="300px" height="500px" src="projectsImages/newsapp-gif.gif" />][newsapp]
 [<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/bishop-gif.gif" />][bishop]
-[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/newsapp-gif.gif" />][newsapp]
-
+[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/cpbay-gif.gif" />][cpbay]
 
 <br />
 <br />
