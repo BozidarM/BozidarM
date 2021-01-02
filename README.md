@@ -44,7 +44,7 @@ bozidar.mladenovic.18@singimail.rs
 
 ### Some images of my projects:
 
-[<img align="left" alt="Visual Studio Code" width="200px" src="projectImages/cpbay-gif.gif" />][cpbay]
+[<img align="left" alt="Visual Studio Code" width="200px" src="projectsImages/cpbay-gif.gif" />][cpbay]
 
 
 <br />
