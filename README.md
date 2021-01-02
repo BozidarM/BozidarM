@@ -44,7 +44,9 @@ bozidar.mladenovic.18@singimail.rs
 
 ### Some images of my projects:
 
-[<img align="left" alt="Visual Studio Code" width="200px" src="projectsImages/cpbay-gif.gif" />][cpbay]
+[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/cpbay-gif.gif" />][cpbay]
+[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/bishop-gif.gif" />][bishop]
+[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/newsapp-gif.gif" />][newsapp]
 
 
 <br />
@@ -55,6 +57,9 @@ bozidar.mladenovic.18@singimail.rs
 [instagram]: https://www.instagram.com/bozidar.mladenovic1/
 [linkedin]: https://www.linkedin.com/in/bozidar-mladenovic-862b77199/
 [cpbay]: https://github.com/BozidarM/CPbay
+[bishop]: https://github.com/BozidarM/BIShop3
+[newsapp]: https://github.com/BozidarM/News-Android-App
+
 
 
 
