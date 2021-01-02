@@ -19,7 +19,7 @@
 ### Contact me:
 
 #### E-mails:
-bozidar.mladenovic1@gmail.com
+bozidar.mladenovic1@gmail.com , 
 bozidar.mladenovic.18@singimail.rs
 
 #### Phone:
@@ -40,6 +40,11 @@ bozidar.mladenovic.18@singimail.rs
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+### Some images of my projects:
+
+[<img align="left" alt="Visual Studio Code" width="200px" src="projectImages/cpbay-gif.gif" />][cpbay]
+
+
 <br />
 <br />
 
@@ -47,6 +52,7 @@ bozidar.mladenovic.18@singimail.rs
 
 [instagram]: https://www.instagram.com/bozidar.mladenovic1/
 [linkedin]: https://www.linkedin.com/in/bozidar-mladenovic-862b77199/
+[cpbay]: https://github.com/BozidarM/CPbay
 
 
 
