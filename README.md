@@ -1,5 +1,6 @@
 ### Hi there, I'm Bozidar 👋
 
+[!(https://img.shields.io/website?up_message=BozidarM&url=https%3A%2F%2Fbozidarm.github.io%2F)][website]
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## I'm a Student!
@@ -59,6 +60,7 @@ bozidar.mladenovic.18@singimail.rs
 [cpbay]: https://github.com/BozidarM/CPbay
 [bishop]: https://github.com/BozidarM/BIShop3
 [newsapp]: https://github.com/BozidarM/News-Android-App
+[website]: https://bozidarm.github.io
 
 
 
