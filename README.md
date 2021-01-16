@@ -49,6 +49,7 @@ bozidar.mladenovic.18@singimail.rs
 [<img align="left" alt="Visual Studio Code" width="300px" height="500px" src="projectsImages/newsapp-gif.gif" />][newsapp]
 [<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/bishop-gif.gif" />][bishop]
 [<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/cpbay-gif.gif" />][cpbay]
+[<img align="left" alt="Visual Studio Code" width="300px" height="500px" src="projectsImages/quizAndriodGif.gif" />][quiz]
 
 <br />
 <br />
@@ -61,6 +62,7 @@ bozidar.mladenovic.18@singimail.rs
 [bishop]: https://github.com/BozidarM/BIShop3
 [newsapp]: https://github.com/BozidarM/News-Android-App
 [website]: https://bozidarm.github.io
+[quiz]: https://github.com/BozidarM/Quiz-Android-App
 
 
 
