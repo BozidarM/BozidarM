@@ -1,14 +1,6 @@
 ### Hi there, I'm Bozidar 👋
 
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=BozidarM&url=https%3A%2F%2Fbozidarm.github.io%2F)][website]
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
-## I'm a Student!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internships, projects and experience to improve my knowledge and skills in software development
-- ⚡ Fun fact: I love to play table tennis and video games
-
 
 ### Connect with me:
 
@@ -20,8 +12,7 @@
 ### Contact me:
 
 #### E-mails:
-bozidar.mladenovic1@gmail.com , 
-bozidar.mladenovic.18@singimail.rs
+bozidar.mladenovic1@gmail.com
 
 #### Phone:
 +381 60/469-357-1
@@ -40,17 +31,6 @@ bozidar.mladenovic.18@singimail.rs
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-### Some images of my projects:
-
-[<img align="left" alt="Visual Studio Code" width="300px" height="500px" src="projectsImages/newsapp-gif.gif" />][newsapp]
-[<img align="left" alt="Visual Studio Code" width="300px" height="500px" src="projectsImages/quizAndroidGif.gif" />][quiz]
-[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/bishop-gif.gif" />][bishop]
-[<img align="left" alt="Visual Studio Code" width="500px" src="projectsImages/cpbay-gif.gif" />][cpbay]
-
 
 <br />
 <br />
